@@ -182,4 +182,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **Happy Hunting! 🎯**
 
-*Remember: With great power comes great responsibility. Always test ethically.*
+*Remember: With great power comes great responsibility.*
